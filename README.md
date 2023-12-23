@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshua1056
-- 👀 I’m interested in Coding, Robotics
-- 🌱 I’m currently learning Javascript and Html
+- 👀 I’m interested in Building discord bots
+- 🌱 I’m currently learning Discord.py
 
 <!---
 Joshua1056/Joshua1056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
